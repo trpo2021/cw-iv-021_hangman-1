@@ -1,0 +1,8 @@
+panda
+cat
+dog
+mouse
+bird
+elephant
+guepard
+wolf
